@@ -23,11 +23,11 @@
 <a href="https://www.hackerrank.com/yugam_gla_cs18">
   <img align="left" alt="Yugam's Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
-<br />
-<br />
 <a href="https://in.pinterest.com/yugamchaudhary/">
   <img align="left" alt="Yugam's Pinterest" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/pinterest.svg" />
 </a>
+<br />
+<br />
 <a href="https://www.reddit.com/user/AssaultPunisher">
   <img align="left" alt="Yugam's Reddit" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/reddit.svg" />
 </a>
