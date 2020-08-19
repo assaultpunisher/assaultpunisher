@@ -23,7 +23,6 @@
 <a href="https://www.hackerrank.com/yugam_gla_cs18">
   <img align="left" alt="Yugam's Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
-<br />
 <a href="https://in.pinterest.com/yugamchaudhary/">
   <img align="left" alt="Yugam's Pinterest" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/pinterest.svg" />
 </a>
@@ -37,7 +36,7 @@
   <img align="left" alt="Yugam's HackerEarth" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />
 </a>
 <a href="https://leetcode.com/yugam08/">
-  <img align="left" alt="Yugam's LeetCode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+  <img align="left" alt="Yugam's LeetCode" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
 <br />
 
