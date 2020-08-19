@@ -29,6 +29,15 @@
 <a href="https://www.reddit.com/user/AssaultPunisher">
   <img align="left" alt="Yugam's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/reddit.svg" />
 </a>
+<a href="https://www.kaggle.com/yugam08">
+  <img align="left" alt="Yugam's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+<a href="https://www.hackerearth.com/@yugam08">
+  <img align="left" alt="Yugam's HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />
+</a>
+<a href="https://leetcode.com/yugam08/">
+  <img align="left" alt="Yugam's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+</a>
 <br />
 
 
