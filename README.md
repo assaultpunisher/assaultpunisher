@@ -42,7 +42,7 @@
 </a>
 <br />
 
-<img align="right" src="https://github.com/yugam08/yugam08/blob/master/code.gif" alt="Coding Bro" width=50px height=50px/>
+<img align="right" src="https://github.com/yugam08/yugam08/blob/master/coffee.gif" alt="Coding Bro" width=350px height=350px/>
 
 
 ![Yugam's Github Stats](https://github-readme-stats.vercel.app/api?username=yugam08&theme=dark&show_icons=true&hide=contribs)
