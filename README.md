@@ -45,7 +45,9 @@
 
 ![Yugam's Github Stats](https://github-readme-stats.vercel.app/api?username=yugam08&theme=dark&show_icons=true&hide=contribs)
 
+<img align="right" src="https://github.com/yugam08/yugam08/blob/master/coffee.gif" alt="Coding Bro" width=350px height=350px/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugam08&theme=dark&hide=PowerShell)
 
-<img align="right" src="https://github.com/yugam08/yugam08/blob/master/coffee.gif" alt="Coding Bro" width=350px height=350px/>
+
 
