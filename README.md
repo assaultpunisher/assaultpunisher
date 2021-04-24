@@ -1,5 +1,5 @@
 <img align="right" src="https://github.com/yugam08/yugam08/blob/master/Bro.png" alt="Coding Bro" width=350px height=350px/>
-<img align="left" src="https://github.com/yugam08/yugam08/blob/master/coffee.gif" alt="Coding Bro" width=150px height=150px/>
+
 
 ## Hi, I'm Yugam 👋
 
@@ -43,6 +43,7 @@
 </a>
 <br />
 
+<img align="left" src="https://github.com/yugam08/yugam08/blob/master/coffee.gif" alt="Coding Bro" width=150px height=150px/>
 
 ![Yugam's Github Stats](https://github-readme-stats.vercel.app/api?username=yugam08&theme=dark&show_icons=true&hide=contribs)
 
