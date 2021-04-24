@@ -1,5 +1,4 @@
 <img align="right" src="https://github.com/yugam08/yugam08/blob/master/Bro.png" alt="Coding Bro" width=350px height=350px/>
-<img align="right" src="https://github.com/yugam08/yugam08/blob/master/code.gif" alt="Coding Bro" width=350px height=350px/>
 
 ## Hi, I'm Yugam 👋
 
@@ -42,6 +41,8 @@
   <img align="left" alt="Yugam's LeetCode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
 <br />
+
+<img align="right" src="https://github.com/yugam08/yugam08/blob/master/code.gif" alt="Coding Bro" width=50px height=50px/>
 
 
 ![Yugam's Github Stats](https://github-readme-stats.vercel.app/api?username=yugam08&theme=dark&show_icons=true&hide=contribs)
