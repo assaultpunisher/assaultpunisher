@@ -3,10 +3,10 @@
 
 ## Hi, I'm Yugam 👋
 
-<a href="https://twitter.com/Yugam008" target="_blank">
+<a href="https://twitter.com/Yugam008">
   <img align="left" alt="Yugam's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/m/in/yugam-44b693170" target="_blank">
+<a href="https://www.linkedin.com/m/in/yugam-44b693170">
   <img align="left" alt="Yugam's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/yugam08">
