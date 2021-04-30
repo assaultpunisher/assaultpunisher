@@ -32,6 +32,9 @@
 <a href="https://www.hackerrank.com/_181500836?hr_r=1">
   <img align="left" alt="Yugam's Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
+<a href="https://codeforces.com/profile/assaultpunisher">
+  <img align="left" alt="Yugam's Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" />
+</a>
 <a href="https://www.kaggle.com/yugam08">
   <img align="left" alt="Yugam's Kaggle" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
