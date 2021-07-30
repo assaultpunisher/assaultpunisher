@@ -50,6 +50,9 @@
 <a href="https://discord.com/channels/@assaultpunisher#3547">
   <img align="left" alt="Yugam's LeetCode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCRVr0oCAZggfKBP-un_2B-g">
+  <img align="left" alt="Yugam's LeetCode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
+</a>
 <br />
 
 <img align="left" src="https://github.com/yugam08/yugam08/blob/master/coffee.gif" alt="Coding Bro" width=150px height=150px/>
